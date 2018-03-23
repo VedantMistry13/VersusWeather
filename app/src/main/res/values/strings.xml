@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VersusWeather</string>
+    <string name="app_logo">app_logo</string>
+    <string name="location">location</string>
+    <string name="weather_image">weather_image</string>
+    <string name="type">type</string>
+    <string name="expand_weather_card">expand_weather_card</string>
+    <string name="collapse_weather_card">collapse_weather_card</string>
+    <string name="lat_long">lat_long</string>
+    <string name="cloudiness">cloudiness</string>
+    <string name="calculated_at">calculated_at</string>
+</resources>
